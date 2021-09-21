@@ -1,4 +1,4 @@
-# router-demo1
+# demo-cart
 
 ## Project setup
 ```
